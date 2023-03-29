@@ -1,0 +1,15 @@
+.form {
+    display: flex;
+    align-items: center;
+    align-items: center;
+    flex-direction: column
+  }
+  .addbtn{
+
+    all: unset;
+  }
+  input{
+    border-radius: 30px;
+  width: 300px;
+padding: 10px;
+}
